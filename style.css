@@ -8,13 +8,13 @@ body {
 }
 
 .wrapper {
-  height: 525px;
+  height: 500px;
   width: 360px;
   color: white;
   background: #272639;
   border-radius: 1rem;
   padding: 1.2rem;
-  margin: 100px auto;
+  margin: 60px auto;
 }
 
 #topContainer {
