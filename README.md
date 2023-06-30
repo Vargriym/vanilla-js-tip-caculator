@@ -1,4 +1,4 @@
-This simple Tip Calculator computes the appropriate tip amount for different percentages based on the number of people you need to split the bill with.
+This simple Tip Calculator computes the appropriate tip amount for different percentages, based on the number of people you need to split the bill with.
 
 Live demo: https://vargriym.github.io/vanilla-js-tip-caculator/
 
